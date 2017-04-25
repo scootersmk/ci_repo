@@ -5,3 +5,4 @@ just a test repo for configuring ci
 introducing mglbot
 hopefully mglbot can interact
 final test before rebuild
+another change
