@@ -5,3 +5,4 @@ just a test repo for configuring ci
 rebuild started
 another new context
 removed one liner
+no longer parameterized
