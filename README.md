@@ -20,3 +20,4 @@ creds test
 
 ## changes from mglbot
 beep boop beep
+i'm a bot
